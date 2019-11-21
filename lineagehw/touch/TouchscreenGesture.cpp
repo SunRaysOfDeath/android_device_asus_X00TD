@@ -39,8 +39,6 @@ const std::unordered_map<int32_t, GestureInfo> kGestureInfoMap = {
     {5, {254, "Gesture Z"}},
     {6, {255, "Gesture Swipe Up"}},
     {7, {256, "Gesture Swipe Down"}},
-    {8, {257, "Gesture Swipe Left"}},
-    {9, {258, "Gesture Swipe Right"}},
 };
 }  // anonymous namespace
 
